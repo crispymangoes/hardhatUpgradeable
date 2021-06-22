@@ -1,0 +1,73 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/crispy/hardhatUpgradeable/mycontract/contracts/Box.sol": {
+      "lastModificationDate": 1618976866448,
+      "contentHash": "0c0c73f1c29c71b8dfde2c9b25cdce8d",
+      "sourceName": "contracts/Box.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.7.0"
+      ],
+      "artifacts": [
+        "Box"
+      ]
+    },
+    "/home/crispy/hardhatUpgradeable/mycontract/contracts/BoxV2.sol": {
+      "lastModificationDate": 1619014818998,
+      "contentHash": "13f311c7df40aaee1b1fb7e4098f0df7",
+      "sourceName": "contracts/BoxV2.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.7.0"
+      ],
+      "artifacts": [
+        "BoxV2"
+      ]
+    }
+  }
+}

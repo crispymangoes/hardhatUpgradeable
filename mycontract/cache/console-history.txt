@@ -1,0 +1,15 @@
+.exit
+(await box.retrieve()).toString()
+await box.increment()
+(await box.retrieve()).toString()
+await box.increment()
+(await box.retrieve()).toString()
+const box = await Box.attach("0xC5D26fa3136ad13880De5D1b4a181f876D71b0cA")
+const Box = await ethers.getContractFactory("BoxV2")
+.exit
+(await box.retrieve()).toString()
+const box = await Box.attach("0xC5D26fa3136ad13880De5D1b4a181f876D71b0cA")
+const Box = await ethers.getContractFactory("Box")
+.exit
+(await ethers.provider.getBalance(accounts[0])).toString()
+accounts = await ethers.provider.listAccounts()
