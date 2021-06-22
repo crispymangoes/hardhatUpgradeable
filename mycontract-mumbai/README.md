@@ -1,0 +1,3 @@
+Deployer Address: 0x04309014aBDd54f140a2C859c8f32F808EE53e6E
+Token Proxy Address: 0xdCBbc3ED6987bA2DB53E138EA3E39Cd75b110247 <- Most developed
+Token Proxy Address Ownable Addition Test: 0x548c1B676b62b5aA893cC7102dDEaAE286434FDf
